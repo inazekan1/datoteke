@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace datoteka2
 {
-    internal class Ucenik
+    internal class ucenik
     {
     }
 }
